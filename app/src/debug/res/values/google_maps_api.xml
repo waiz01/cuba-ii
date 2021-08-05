@@ -1,0 +1,24 @@
+<resources>
+    <!--
+    TODO: Before you run your application, you need a Google Maps API key.
+
+    To get one, follow this link, follow the directions and press "Create" at the end:
+
+    https://console.developers.google.com/flows/enableapi?apiid=maps_android_backend&keyType=CLIENT_SIDE_ANDROID&r=31:FF:F0:BA:E4:18:98:C5:1A:E4:71:BE:7A:94:A3:D2:41:CE:23:7E%3Bcom.example.healthyspotsignin
+
+    You can also add your credentials to an existing key, using these values:
+
+    Package name:
+    com.example.healthyspotsignin
+
+    SHA-1 certificate fingerprint:
+    31:FF:F0:BA:E4:18:98:C5:1A:E4:71:BE:7A:94:A3:D2:41:CE:23:7E
+
+    Alternatively, follow the directions here:
+    https://developers.google.com/maps/documentation/android/start#get-key
+
+    Once you have your key (it starts with "AIza"), replace the "google_maps_key"
+    string in this file.
+    -->
+    <string name="google_maps_key" templateMergeStrategy="preserve" translatable="false">AIzaSyCimFkp2JN_nG-VPUE82pA6eDmqQsVM4vo</string>
+</resources>

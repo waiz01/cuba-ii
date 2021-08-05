@@ -1,0 +1,56 @@
+<resources>
+    <string name="app_name">healthyspotsignin</string>
+    <string name="title_activity_maps">Map</string>
+
+    <string name="hyperlink"><a href="https://github.com/">GitHub</a></string>
+
+    <!-- Names -->
+    <string-array name="Member_names">
+        <item>ANIZ ZULAIKHA</item>
+        <item>MARIANA</item>
+        <item>NOORSYAHIRAH</item>
+        <item>NUR AIMAN</item>
+        <item>NURFATIN NASUHA</item>
+        <item>SITI NABILA</item>
+    </string-array>
+
+    <!-- Pictures -->
+    <array name="profile_pics">
+        <item>@drawable/aikha</item>
+        <item>@drawable/mariana</item>
+        <item>@drawable/syira</item>
+        <item>@drawable/aiman</item>
+        <item>@drawable/cuha</item>
+        <item>@drawable/bella</item>
+    </array>
+
+    <!-- id -->
+    <string-array name="id">
+        <item>2019310491</item>
+        <item>2019311885</item>
+        <item>2019564081</item>
+        <item>2019312229</item>
+        <item>2019312133</item>
+        <item>2019564047</item>
+    </string-array>
+
+    <!-- course code -->
+    <string-array name="code">
+        <item>CS240</item>
+        <item>CS240</item>
+        <item>CS240</item>
+        <item>CS240</item>
+        <item>CS240</item>
+        <item>CS240</item>
+    </string-array>
+
+    <!-- group -->
+    <string-array name="group">
+        <item>RCS2405C</item>
+        <item>RCS2405C</item>
+        <item>RCS2405B</item>
+        <item>RCS2405C</item>
+        <item>RCS2405C</item>
+        <item>RCS2405C</item>
+    </string-array>
+</resources>
